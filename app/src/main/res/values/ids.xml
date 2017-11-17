@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="LL" type="id"/>
+    <item name="TV" type="id"/>
+    <item name="CB" type="id"/>
+    <item name="CB2" type="id"/>
+    <item name="ll2" type="id"/>
+
+
+
+
+
+
 </resources>
